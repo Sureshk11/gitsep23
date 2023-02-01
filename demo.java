@@ -1,8 +1,9 @@
-class demo(){
+class demo
+{
 
- psvm(){
+ public static void main (String args[]){
 
-sop("Hello World");
+System.out.println("Hello World");
 
  }
 
